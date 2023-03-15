@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Yebelo.Notes.WebUI-859D8367-0EDC-47D7-8060-28B594CDB33E")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yebelo.Notes.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
