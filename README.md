@@ -10,6 +10,7 @@ and delete notes. Additionally, there should be a statistics page that shows how
 notes have been added, edited, and deleted. The application should use the identity scaffold of
 .NET to create a login and registration page, and all pages should be accessible only to logged-in
 users.
+
 Requirements:
 1. The application should have a home page that displays a list of all notes that have been
 added.
@@ -26,6 +27,7 @@ database.
 9. The application should use the identity scaffold of .NET to create a login and registration
 page. No customizations needed, basic scaffold should be enough.
 10. All pages should be accessible only to logged-in users.
+
 Instructions:
 1. Create a new .NET Razor Pages application.
 2. Add Entity Framework to the project and create a database to store the notes.
